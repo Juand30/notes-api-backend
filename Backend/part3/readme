@@ -1,0 +1,7 @@
+ejecutar nodemon
+
+.\node_modules\.bin\nodemon index.js
+
+EsLint ejecutar corrector de errores
+
+npx eslint --fix .
